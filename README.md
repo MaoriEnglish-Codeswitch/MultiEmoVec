@@ -1,4 +1,4 @@
-# MuEmoVec: Learning Generalised Multi-modal Emotion Representation by Momentum Contrast and Multi-task Reconstruction
+# MultiEmoVec: Learning Generalised Multi-modal Emotion Representation by Momentum Contrast and Multi-task Reconstruction
 
 ## Database Process
 
